@@ -1,0 +1,25 @@
+{
+  "name": "cracking-the-coding-interview-javascript",
+  "version": "0.0.0",
+  "description": "Cracking the Coding Interview JavaScript solutions",
+  "main": ".",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuckersn/Cracking-the-Coding-Interview-JavaScript.git"
+  },
+  "author": "Tucker Sneed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tuckersn/Cracking-the-Coding-Interview-JavaScript/issues"
+  },
+  "homepage": "https://github.com/tuckersn/Cracking-the-Coding-Interview-JavaScript#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
